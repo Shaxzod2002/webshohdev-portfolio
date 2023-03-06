@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "image": "./projects/work1.png",
+    "service": "Front End",
+    "title": "Variteks Uz",
+    "link": "http://variteks.uz/"
+  },
+  {
+    "id": 2,
+    "image": "./projects/work2.png",
+    "service": "Mentor",
+    "title": "O'zbegim ayollari",
+    "link": "https://uzbek-women-frontend.netlify.app"
+  },
+  {
+    "id": 3,
+    "image": "./projects/work3.png",
+    "service": "Mentor",
+    "title": "Game Boom",
+    "link": "https://boom-game.netlify.app"
+  },
+  {
+    "id": 4,
+    "image": "./projects/work4.png",
+    "service": "Front End",
+    "title": "Git Group",
+    "link": "https://web-git-group.netlify.app/"
+  },
+  {
+    "id": 5,
+    "image": "./projects/work5.png",
+    "service": "Front End",
+    "title": "Ferkon Uz",
+    "link": "https://ferkon.netlify.app/"
+  },
+  {
+    "id": 6,
+    "image": "./projects/work6.png",
+    "service": "UI/UX Design",
+    "title": "Trending for Hijab",
+    "link": "https://hijab-2021.netlify.app/"
+  },
+  {
+    "id": 7,
+    "image": "./projects/work7.png",
+    "service": "Product Branding",
+    "title": "Start Up",
+    "link": "https://web-site-startup.netlify.app/"
+  },
+  {
+    "id": 8,
+    "image": "./projects/work8.png",
+    "service": "Front End",
+    "title": "ОКНО ПРОФИ",
+    "link": "https://okno-profi-test.netlify.app/"
+  },
+  {
+    "id": 9,
+    "image": "./projects/work9.png",
+    "service": "Front End",
+    "title": "Hasana Premium",
+    "link": "https://hasana-premium.netlify.app/"
+  },
+  {
+    "id": 10,
+    "image": "./projects/work10.png",
+    "service": "Front End",
+    "title": "One Position",
+    "link": "https://hasana-premium.netlify.app/"
+  },
+  {
+    "id": 11,
+    "image": "./projects/work11.png",
+    "service": "UI/UX Design",
+    "title": "Web Design Portfolio",
+    "link": "https://ui-ux-webdesigner.netlify.app/"
+  },
+  {
+    "id": 12,
+    "image": "./projects/work12.png",
+    "service": "Front End",
+    "title": "NFT Marketing",
+    "link": "https://nft-market-web.netlify.app/"
+  },
+  {
+    "id": 13,
+    "image": "./projects/work13.png",
+    "service": "Mentor",
+    "title": "Tinga",
+    "link": "https://tingla-new.netlify.app/"
+  }
+]
