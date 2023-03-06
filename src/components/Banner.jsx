@@ -54,8 +54,10 @@ const Banner = () => {
               />
             </motion.div>
             <p className="mx-auto mb-8 max-w-lg lg:mx-0">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
-              debitis illum quia suscipit tenetur!
+              Assalomu Alaykum. I have 2 years project and 1 year mentoring
+              experience in Front End Web Programming. In addition, I have
+              practical and theoretical knowledge of Back End and I also have
+              knowledge of web design.
             </p>
             <div className="mx-auto mb-12 flex max-w-max items-center gap-x-6 lg:mx-0">
               <a

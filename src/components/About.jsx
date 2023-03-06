@@ -48,10 +48,10 @@ const About = () => {
             viewport={{ once: false, amount: 0.7 }}
             className="text-sm"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-            architecto debitis fugiat a odio ut tempora voluptatum,
-            reprehenderit nisi consectetur? Adipisci sequi quis nesciunt
-            veritatis, quisquam quos odit amet et?
+            Over the years, I think I've had the best results on freelancing
+            networks.com and linked.com, that's what I think. In addition, 2022
+            is the last month of the industry. I started working at Acadeda Zed
+            ITmy where I served as a senior destination guide for the city.
           </motion.p>
           <div className="flex items-center gap-2">
             <motion.div
@@ -101,7 +101,10 @@ const About = () => {
             >
               Contact me
             </motion.button>
-            <Link to="work" className="cursor-pointer text-gradient font-secondary text-lg">
+            <Link
+              to="work"
+              className="text-gradient cursor-pointer font-secondary text-lg"
+            >
               My Portfolio
             </Link>
           </div>
