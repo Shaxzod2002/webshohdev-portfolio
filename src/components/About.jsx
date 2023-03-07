@@ -9,7 +9,7 @@ import { Link } from "react-scroll";
 const About = () => {
   return (
     <div className="section" id="about">
-      <div className="container mx-auto flex items-center justify-center">
+      <div className="container mx-auto flex lg:flex-row flex-col-reverse gap-y-5 items-center justify-center">
         <div className="w-full lg:w-1/2">
           <motion.img
             variants={fadeIn("up", 0.3)}
